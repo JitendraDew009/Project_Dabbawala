@@ -22,15 +22,15 @@ A full-stack FastAPI project for managing daily meal orders from a kitchen or de
 
 ## Demo videos
 
-<div align="center">
-  <video controls width="900" poster="./Screenshots%20and%20Demo%20Videos/Frontend%20Screenshot%201.png">
-    <source src="./Screenshots%20and%20Demo%20Videos/Dabbawala%20demo%20video.mp4" type="video/mp4" />
-  </video>
-  <br /><br />
-  <video controls width="900" poster="./Screenshots%20and%20Demo%20Videos/Backend%20Screenshot%203.png">
-    <source src="./Screenshots%20and%20Demo%20Videos/Dabbawala%20backend%20demo%20video.mp4" type="video/mp4" />
-  </video>
-</div>
+GitHub does not play `<video>` tags embedded in a repository README. Click a preview below to open the MP4 file:
+
+[![Watch the Dabbawala app demo](./Screenshots%20and%20Demo%20Videos/Frontend%20Screenshot%201.png)](./Screenshots%20and%20Demo%20Videos/Dabbawala%20demo%20video.mp4)
+
+[Watch the Dabbawala app demo video](./Screenshots%20and%20Demo%20Videos/Dabbawala%20demo%20video.mp4)
+
+[![Watch the Dabbawala backend demo](./Screenshots%20and%20Demo%20Videos/Backend%20Screenshot%203.png)](./Screenshots%20and%20Demo%20Videos/Dabbawala%20backend%20demo%20video.mp4)
+
+[Watch the Dabbawala backend demo video](./Screenshots%20and%20Demo%20Videos/Dabbawala%20backend%20demo%20video.mp4)
 
 ## Key features
 
